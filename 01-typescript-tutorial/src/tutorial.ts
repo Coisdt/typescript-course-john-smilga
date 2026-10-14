@@ -40,3 +40,11 @@ for (let book of books) {
 
 console.log('found book:', foundbook?.toUpperCase());
 
+let prices: number[] = [10, 20, 30];
+
+let array: string | boolean = "test"
+
+let car:{brand: string, model:string} = {
+    brand: 'toyota',
+    model: 'hilux'
+}
